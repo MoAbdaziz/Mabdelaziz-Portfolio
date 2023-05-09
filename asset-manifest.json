@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.bb66712b.css",
+    "main.js": "/React-Portfolio/static/js/main.4068acdd.js",
+    "static/media/132.jpg": "/React-Portfolio/static/media/132.78c7cb936394b103c1da.jpg",
+    "static/media/World.jpg": "/React-Portfolio/static/media/World.6b666592ca75e895bbb5.jpg",
+    "static/media/Bootstrap_logo.svg.png": "/React-Portfolio/static/media/Bootstrap_logo.svg.35ae969b26d06365136e.png",
+    "static/media/react.png": "/React-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/Qatar.jpg": "/React-Portfolio/static/media/Qatar.66afce96905b71a35ec1.jpg",
+    "static/media/html.png": "/React-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/React-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/React-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/React-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.bb66712b.css.map": "/React-Portfolio/static/css/main.bb66712b.css.map",
+    "main.4068acdd.js.map": "/React-Portfolio/static/js/main.4068acdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb66712b.css",
+    "static/js/main.4068acdd.js"
+  ]
+}
